@@ -1,2 +1,2 @@
 # never gonna let you down
-don't get rickrolled again.
+a chrome extension to stop you from getting rickrolled every single day.
